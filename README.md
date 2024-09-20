@@ -2,9 +2,7 @@
 - 👀 I’m interested in problem solving and new tech
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on various open source 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+
 
 <!---
 mishraasudip/mishraasudip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
